@@ -1,9 +1,3 @@
 # Whale-road
 
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
-  </li>
-{% endfor %}
-</ul>
+[Currently, Year 3](https://yongssh.github.io/blog/2024-09-30-currentlyyear3)
